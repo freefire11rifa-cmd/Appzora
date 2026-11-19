@@ -1,0 +1,6 @@
+{
+  "name": "Appzora",
+  "description": "Appzora is an HD online Android app and game marketplace with Gmail sign-in, categorized discovery, instant search, and a verified developer publishing console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
